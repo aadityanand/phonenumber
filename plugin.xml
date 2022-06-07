@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 		xmlns:android="http://schemas.android.com/apk/res/android"
-		id="at.oneminutedistraction.phonenumber" version="0.0.1">
+		id="oneminutedistraction/phonenumber" version="0.0.1">
 
 	<name>Telephone Number</name>
 
